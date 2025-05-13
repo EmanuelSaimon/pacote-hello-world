@@ -1,6 +1,6 @@
 # hello_world
 
-Description\ 
+Description\
 The package hello_world is used to:\
 	Printe:\
 		 - print hello world\
